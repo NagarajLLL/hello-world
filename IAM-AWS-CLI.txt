@@ -1,0 +1,20 @@
+IAM is not region based. it is a global service
+
+Access key id
+Secret key
+
+
+
+Effect
+Action
+Resource
+
+
+100 buckets for one account for more talk to Amazon
+
+aws configure
+
+
+aws s3 ls
+aws ec2 ls
+ 
